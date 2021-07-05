@@ -1,0 +1,29 @@
+[
+    {
+        "img" :"../assets/images/travel-1.jpg",
+        "alt" : "Miami",
+        "name" : "Miami",
+        "button" :"View Destination"
+
+    },
+    {
+        "img" :"../assets/images/travel-2.jpg",
+        "alt" : "Mexique",
+        "name" : "Mexique",
+        "button" :"View Destination"
+
+    },{
+        "img" :"../assets/images/travel-3.jpg",
+        "alt" : "Venice",
+        "name" : "Venice",
+        "button" :"View Destination"
+
+    },{
+        "img" :"../assets/images/travel-4.jpg",
+        "alt" : "Santorini Greece",
+        "name" : "Santorini Greece",
+        "button" :"View Destination"
+
+    }
+    
+]
